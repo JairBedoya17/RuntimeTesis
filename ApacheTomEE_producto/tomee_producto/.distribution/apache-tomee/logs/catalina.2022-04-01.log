@@ -1,0 +1,163 @@
+01-Apr-2022 18:37:34.674 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Nombre de la versión del servidor:   Apache Tomcat (TomEE)/9.0.20 (8.0.0-M3)
+
+01-Apr-2022 18:37:34.674 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Server built:          May 3 2019 22:26:00 UTC
+01-Apr-2022 18:37:34.674 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Número de versión de servidor:         9.0.20.0
+01-Apr-2022 18:37:34.674 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke OS Name:               Windows 10
+01-Apr-2022 18:37:34.674 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Versión de Systema Operativo:      10.0
+
+01-Apr-2022 18:37:34.674 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Arquitectura:          amd64
+
+01-Apr-2022 18:37:34.675 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Java Home:             C:\Program Files\Eclipse Foundation\jdk-8.0.302.8-hotspot\jre
+01-Apr-2022 18:37:34.675 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke JVM Version:           1.8.0_302-b08
+01-Apr-2022 18:37:34.675 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Vededor JVM:     Temurin
+01-Apr-2022 18:37:34.675 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke CATALINA_BASE:         C:\Users\User\OneDrive\Documents\GitHub\RuntimeTesis\ApacheTomEE_producto\tomee_producto\.distribution\apache-tomee
+01-Apr-2022 18:37:34.675 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke CATALINA_HOME:         C:\Users\User\OneDrive\Documents\GitHub\RuntimeTesis\ApacheTomEE_producto\tomee_producto\.distribution\apache-tomee
+01-Apr-2022 18:37:34.677 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Djava.util.logging.config.file=C:\Users\User\OneDrive\Documents\GitHub\RuntimeTesis\ApacheTomEE_producto\tomee_producto\.distribution\apache-tomee\conf\logging.properties
+01-Apr-2022 18:37:34.677 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+01-Apr-2022 18:37:34.678 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -javaagent:C:\Users\User\OneDrive\Documents\GitHub\RuntimeTesis\ApacheTomEE_producto\tomee_producto\.distribution\apache-tomee\lib\openejb-javaagent.jar
+01-Apr-2022 18:37:34.678 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+01-Apr-2022 18:37:34.678 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+01-Apr-2022 18:37:34.678 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dorg.apache.catalina.STRICT_SERVLET_COMPLIANCE=false
+01-Apr-2022 18:37:34.678 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dopenejb.session.manager=org.apache.tomee.catalina.session.QuickSessionManager
+01-Apr-2022 18:37:34.678 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dtomee.remote.support=true
+01-Apr-2022 18:37:34.678 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dopenejb.system.apps=false
+01-Apr-2022 18:37:34.678 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dtomee.noshutdownhook=true
+01-Apr-2022 18:37:34.679 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dtomee.jsp-development=true
+01-Apr-2022 18:37:34.679 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dignore.endorsed.dirs=
+01-Apr-2022 18:37:34.679 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.base=C:\Users\User\OneDrive\Documents\GitHub\RuntimeTesis\ApacheTomEE_producto\tomee_producto\.distribution\apache-tomee
+01-Apr-2022 18:37:34.679 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.home=C:\Users\User\OneDrive\Documents\GitHub\RuntimeTesis\ApacheTomEE_producto\tomee_producto\.distribution\apache-tomee
+01-Apr-2022 18:37:34.679 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.io.tmpdir=C:\Users\User\OneDrive\Documents\GitHub\RuntimeTesis\ApacheTomEE_producto\tomee_producto\.distribution\apache-tomee\temp
+01-Apr-2022 18:37:34.679 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke La biblioteca nativa de Apache Tomcat basada en ARP que permite un rendimiento óptimo en entornos de desarrollo no ha sido hallada en java.library.path: [C:\Program Files\Eclipse Foundation\jdk-8.0.302.8-hotspot\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Eclipse Foundation\jdk-8.0.302.8-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\PostgreSQL\14\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Git\cmd;C:\ProgramData\chocolatey\lib\maven\apache-maven-3.8.1\bin;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Users\User\AppData\Local\GitHubDesktop\bin;.]
+01-Apr-2022 18:37:34.917 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Inicializando el manejador de protocolo ["http-nio-8080"]
+
+01-Apr-2022 18:37:35.036 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Inicializando el manejador de protocolo ["ajp-nio-8009"]
+
+01-Apr-2022 18:37:35.179 INFORMACIÓN [main] org.apache.openejb.util.OptionsLog.info Using 'tomee.remote.support=true'
+01-Apr-2022 18:37:35.198 INFORMACIÓN [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.jdbc.datasource-creator=org.apache.tomee.jdbc.TomEEDataSourceCreator'
+01-Apr-2022 18:37:35.258 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> ********************************************************************************
+01-Apr-2022 18:37:35.258 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> OpenEJB http://tomee.apache.org/
+01-Apr-2022 18:37:35.258 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> Startup: Fri Apr 01 18:37:35 COT 2022
+01-Apr-2022 18:37:35.258 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> Copyright 1999-2018 (C) Apache OpenEJB Project, All Rights Reserved.
+01-Apr-2022 18:37:35.258 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> Version: 8.0.0-M3
+01-Apr-2022 18:37:35.258 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> Build date: 20190523
+01-Apr-2022 18:37:35.258 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> Build time: 12:13
+01-Apr-2022 18:37:35.258 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> ********************************************************************************
+01-Apr-2022 18:37:35.258 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> openejb.home = C:\Users\User\OneDrive\Documents\GitHub\RuntimeTesis\ApacheTomEE_producto\tomee_producto\.distribution\apache-tomee
+01-Apr-2022 18:37:35.258 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> openejb.base = C:\Users\User\OneDrive\Documents\GitHub\RuntimeTesis\ApacheTomEE_producto\tomee_producto\.distribution\apache-tomee
+01-Apr-2022 18:37:35.269 INFORMACIÓN [main] org.apache.openejb.cdi.CdiBuilder.initializeOWB Created new singletonService org.apache.openejb.cdi.ThreadSingletonServiceImpl@659a969b
+01-Apr-2022 18:37:35.272 INFORMACIÓN [main] org.apache.openejb.cdi.CdiBuilder.initializeOWB Succeeded in installing singleton service
+01-Apr-2022 18:37:35.301 INFORMACIÓN [main] org.apache.openejb.config.ConfigurationFactory.init TomEE configuration file is 'C:\Users\User\OneDrive\Documents\GitHub\RuntimeTesis\ApacheTomEE_producto\tomee_producto\.distribution\apache-tomee\conf\tomee.xml'
+01-Apr-2022 18:37:35.331 INFORMACIÓN [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Tomcat Security Service, type=SecurityService, provider-id=Tomcat Security Service)
+01-Apr-2022 18:37:35.332 INFORMACIÓN [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default Transaction Manager, type=TransactionManager, provider-id=Default Transaction Manager)
+01-Apr-2022 18:37:35.335 INFORMACIÓN [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.system.apps=false'
+01-Apr-2022 18:37:35.335 INFORMACIÓN [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.deployments.classpath=false'
+01-Apr-2022 18:37:35.337 INFORMACIÓN [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating TransactionManager(id=Default Transaction Manager)
+01-Apr-2022 18:37:35.374 INFORMACIÓN [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating SecurityService(id=Tomcat Security Service)
+01-Apr-2022 18:37:35.475 INFORMACIÓN [main] org.apache.openejb.server.ServiceManager.initServer Creating ServerService(id=cxf-rs)
+01-Apr-2022 18:37:35.572 INFORMACIÓN [main] org.apache.openejb.server.SimpleServiceManager.start   ** Bound Services **
+01-Apr-2022 18:37:35.572 INFORMACIÓN [main] org.apache.openejb.server.SimpleServiceManager.printRow   NAME                 IP              PORT  
+01-Apr-2022 18:37:35.572 INFORMACIÓN [main] org.apache.openejb.server.SimpleServiceManager.start -------
+01-Apr-2022 18:37:35.572 INFORMACIÓN [main] org.apache.openejb.server.SimpleServiceManager.start Ready!
+01-Apr-2022 18:37:35.572 INFORMACIÓN [main] org.apache.openejb.util.OptionsLog.info Using 'tomee.noshutdownhook=true'
+01-Apr-2022 18:37:35.572 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Server initialization in [1.068] milliseconds
+01-Apr-2022 18:37:35.612 INFORMACIÓN [main] org.apache.tomee.catalina.OpenEJBNamingContextListener.bindResource Importing a Tomcat Resource with id 'UserDatabase' of type 'org.apache.catalina.UserDatabase'.
+01-Apr-2022 18:37:35.612 INFORMACIÓN [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Resource(id=UserDatabase)
+01-Apr-2022 18:37:35.623 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Arrancando servicio [Catalina]
+01-Apr-2022 18:37:35.624 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting Servlet engine: [Apache Tomcat (TomEE)/9.0.20 (8.0.0-M3)]
+01-Apr-2022 18:37:35.640 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Despliegue del archivo [C:\Users\User\OneDrive\Documents\GitHub\RuntimeTesis\ApacheTomEE_producto\tomee_producto\.distribution\apache-tomee\webapps\ROOT.war] de la aplicación web
+01-Apr-2022 18:37:35.646 INFORMACIÓN [main] org.apache.tomee.catalina.TomcatWebAppBuilder.init ------------------------- localhost -> /
+01-Apr-2022 18:37:35.649 INFORMACIÓN [main] org.apache.openejb.util.JarExtractor.extract Extracting jar: C:\Users\User\OneDrive\Documents\GitHub\RuntimeTesis\ApacheTomEE_producto\tomee_producto\.distribution\apache-tomee\webapps\ROOT.war
+01-Apr-2022 18:37:35.880 INFORMACIÓN [main] org.apache.openejb.util.JarExtractor.extract Extracted path: C:\Users\User\OneDrive\Documents\GitHub\RuntimeTesis\ApacheTomEE_producto\tomee_producto\.distribution\apache-tomee\webapps\ROOT
+01-Apr-2022 18:37:35.880 INFORMACIÓN [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.session.manager=org.apache.tomee.catalina.session.QuickSessionManager'
+01-Apr-2022 18:37:35.958 INFORMACIÓN [main] org.apache.openejb.util.OptionsLog.info Using 'tomee.mp.scan=all'
+01-Apr-2022 18:37:36.284 INFORMACIÓN [main] org.apache.openejb.config.ConfigurationFactory.configureApplication Configuring enterprise application: C:\Users\User\OneDrive\Documents\GitHub\RuntimeTesis\ApacheTomEE_producto\tomee_producto\.distribution\apache-tomee\webapps\ROOT
+01-Apr-2022 18:37:36.446 INFORMACIÓN [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default Managed Container, type=Container, provider-id=Default Managed Container)
+01-Apr-2022 18:37:36.446 INFORMACIÓN [main] org.apache.openejb.config.AutoConfig.createContainer Auto-creating a container for bean .Comp1556061855: Container(type=MANAGED, id=Default Managed Container)
+01-Apr-2022 18:37:36.446 INFORMACIÓN [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Container(id=Default Managed Container)
+01-Apr-2022 18:37:36.457 INFORMACIÓN [main] org.apache.openejb.core.managed.SimplePassivater.init Using directory C:\Users\User\OneDrive\Documents\GitHub\RuntimeTesis\ApacheTomEE_producto\tomee_producto\.distribution\apache-tomee\temp for stateful session passivation
+01-Apr-2022 18:37:36.499 INFORMACIÓN [main] org.apache.openejb.config.AppInfoBuilder.build Enterprise application "C:\Users\User\OneDrive\Documents\GitHub\RuntimeTesis\ApacheTomEE_producto\tomee_producto\.distribution\apache-tomee\webapps\ROOT" loaded.
+01-Apr-2022 18:37:36.504 INFORMACIÓN [main] org.apache.openejb.assembler.classic.Assembler.createApplication Assembling app: C:\Users\User\OneDrive\Documents\GitHub\RuntimeTesis\ApacheTomEE_producto\tomee_producto\.distribution\apache-tomee\webapps\ROOT
+01-Apr-2022 18:37:36.583 INFORMACIÓN [main] org.apache.openejb.cdi.CdiBuilder.initSingleton Existing thread singleton service in SystemInstance(): org.apache.openejb.cdi.ThreadSingletonServiceImpl@659a969b
+01-Apr-2022 18:37:36.672 INFORMACIÓN [main] org.apache.openejb.cdi.OpenEJBLifecycle.startApplication OpenWebBeans Container is starting...
+01-Apr-2022 18:37:36.679 INFORMACIÓN [main] org.apache.webbeans.plugins.PluginLoader.startUp Adding OpenWebBeansPlugin : [CdiPlugin]
+01-Apr-2022 18:37:36.838 INFORMACIÓN [main] org.apache.openejb.cdi.CdiScanner.handleBda Using annotated mode for jar:file:/C:/Users/User/OneDrive/Documents/GitHub/RuntimeTesis/ApacheTomEE_producto/tomee_producto/.distribution/apache-tomee/lib/geronimo-config-impl-1.2.1.jar!/META-INF/beans.xml looking all classes to find CDI beans, maybe think to add a beans.xml if not there or add the jar to exclusions.list
+01-Apr-2022 18:37:36.999 INFORMACIÓN [main] org.apache.geronimo.config.configsource.PropertyFileConfigSourceProvider.<init> Custom config found by GeronimoConfig. Name: 'META-INF/microprofile-config.properties', URL: 'file:/C:/Users/User/OneDrive/Documents/GitHub/RuntimeTesis/ApacheTomEE_producto/tomee_producto/.distribution/apache-tomee/webapps/ROOT/WEB-INF/classes/META-INF/microprofile-config.properties'
+01-Apr-2022 18:37:37.010 INFORMACIÓN [main] org.apache.openejb.util.OptionsLog.info Using 'tomee.mp.scan=all'
+01-Apr-2022 18:37:37.574 INFORMACIÓN [main] org.apache.webbeans.config.BeansDeployer.validateInjectionPoints All injection points were validated successfully.
+01-Apr-2022 18:37:37.605 INFORMACIÓN [main] org.apache.openejb.cdi.OpenEJBLifecycle.startApplication OpenWebBeans Container has started, it took 933 ms.
+01-Apr-2022 18:37:37.618 INFORMACIÓN [main] org.apache.openejb.assembler.classic.Assembler.createApplication Deployed Application(path=C:\Users\User\OneDrive\Documents\GitHub\RuntimeTesis\ApacheTomEE_producto\tomee_producto\.distribution\apache-tomee\webapps\ROOT)
+01-Apr-2022 18:37:37.715 INFORMACIÓN [main] org.apache.myfaces.ee.MyFacesContainerInitializer.onStartup Using org.apache.myfaces.ee.MyFacesContainerInitializer
+01-Apr-2022 18:37:37.746 INFORMACIÓN [main] org.apache.myfaces.ee.MyFacesContainerInitializer.onStartup Added FacesServlet with mappings=[/faces/*, *.jsf, *.faces, *.xhtml]
+01-Apr-2022 18:37:37.774 INFORMACIÓN [main] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+01-Apr-2022 18:37:37.781 INFORMACIÓN [main] org.apache.tomee.myfaces.TomEEMyFacesContainerInitializer.addListener Installing <listener>org.apache.myfaces.webapp.StartupServletContextListener</listener>
+01-Apr-2022 18:37:37.839 INFORMACIÓN [main] org.apache.myfaces.config.DefaultFacesConfigurationProvider.getStandardFacesConfig Reading standard config META-INF/standard-faces-config.xml
+01-Apr-2022 18:37:38.005 INFORMACIÓN [main] org.apache.myfaces.config.DefaultFacesConfigurationProvider.getClassloaderFacesConfig Reading config : jar:file:/C:/Users/User/OneDrive/Documents/GitHub/RuntimeTesis/ApacheTomEE_producto/tomee_producto/.distribution/apache-tomee/lib/openwebbeans-jsf-2.0.9.jar!/META-INF/faces-config.xml
+01-Apr-2022 18:37:38.005 INFORMACIÓN [main] org.apache.myfaces.config.DefaultFacesConfigurationProvider.getClassloaderFacesConfig Reading config : jar:file:/C:/Users/User/OneDrive/Documents/GitHub/RuntimeTesis/ApacheTomEE_producto/tomee_producto/.distribution/apache-tomee/lib/openwebbeans-el22-2.0.9.jar!/META-INF/faces-config.xml
+01-Apr-2022 18:37:38.090 INFORMACIÓN [main] org.apache.myfaces.config.LogMetaInfUtils.logArtifact Artifact 'myfaces-api' was found in version '2.3.3' from path 'file:/C:/Users/User/OneDrive/Documents/GitHub/RuntimeTesis/ApacheTomEE_producto/tomee_producto/.distribution/apache-tomee/lib/myfaces-api-2.3.3.jar'
+01-Apr-2022 18:37:38.090 INFORMACIÓN [main] org.apache.myfaces.config.LogMetaInfUtils.logArtifact Artifact 'myfaces-impl' was found in version '2.3.3' from path 'file:/C:/Users/User/OneDrive/Documents/GitHub/RuntimeTesis/ApacheTomEE_producto/tomee_producto/.distribution/apache-tomee/lib/myfaces-impl-2.3.3.jar'
+01-Apr-2022 18:37:38.107 INFORMACIÓN [main] org.apache.myfaces.util.ExternalSpecifications.isCDIAvailable MyFaces CDI support enabled
+01-Apr-2022 18:37:38.109 INFORMACIÓN [main] org.apache.myfaces.spi.impl.DefaultInjectionProviderFactory.getInjectionProvider Using InjectionProvider org.apache.myfaces.spi.impl.CDIAnnotationDelegateInjectionProvider
+01-Apr-2022 18:37:38.155 INFORMACIÓN [main] org.apache.myfaces.util.ExternalSpecifications.isBeanValidationAvailable MyFaces Bean Validation support enabled
+01-Apr-2022 18:37:38.185 INFORMACIÓN [main] org.apache.myfaces.application.ApplicationImpl.getProjectStage Couldn't discover the current project stage, using Production
+01-Apr-2022 18:37:38.186 INFORMACIÓN [main] org.apache.myfaces.config.FacesConfigurator.handleSerialFactory Serialization provider : class org.apache.myfaces.shared_impl.util.serial.DefaultSerialFactory
+01-Apr-2022 18:37:38.192 INFORMACIÓN [main] org.apache.myfaces.config.annotation.DefaultLifecycleProviderFactory.getLifecycleProvider Using LifecycleProvider org.apache.myfaces.config.annotation.Tomcat7AnnotationLifecycleProvider
+01-Apr-2022 18:37:38.218 INFORMACIÓN [main] org.apache.myfaces.webapp.AbstractFacesInitializer.initFaces ServletContext initialized.
+01-Apr-2022 18:37:38.222 INFORMACIÓN [main] org.apache.myfaces.view.facelets.ViewPoolProcessor.initialize org.apache.myfaces.CACHE_EL_EXPRESSIONS web config parameter is set to "noCache". To enable view pooling this param must be set to "alwaysRecompile". View Pooling disabled.
+01-Apr-2022 18:37:38.232 INFORMACIÓN [main] org.apache.myfaces.webapp.StartupServletContextListener.contextInitialized MyFaces Core has started, it took [447] ms.
+01-Apr-2022 18:37:38.251 INFORMACIÓN [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.cxf-rs.cache-application=false'
+01-Apr-2022 18:37:38.421 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication Using readers:
+01-Apr-2022 18:37:38.421 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.PrimitiveTextProvider@284d4885
+01-Apr-2022 18:37:38.421 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.FormEncodingProvider@40cf6254
+01-Apr-2022 18:37:38.421 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.MultipartProvider@40bf0e15
+01-Apr-2022 18:37:38.421 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.SourceProvider@2c77344f
+01-Apr-2022 18:37:38.421 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.JAXBElementTypedProvider@121ddca4
+01-Apr-2022 18:37:38.421 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.JAXBElementProvider@297bd171
+01-Apr-2022 18:37:38.421 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.openejb.server.cxf.rs.johnzon.TomEEJsonbProvider@67d5ac2f
+01-Apr-2022 18:37:38.421 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.openejb.server.cxf.rs.johnzon.TomEEJsonpProvider@1201e064
+01-Apr-2022 18:37:38.421 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.StringTextProvider@a69f9d
+01-Apr-2022 18:37:38.421 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.BinaryDataProvider@5a8dcfbb
+01-Apr-2022 18:37:38.421 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.DataSourceProvider@1846ad0f
+01-Apr-2022 18:37:38.421 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication Using writers:
+01-Apr-2022 18:37:38.421 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.johnzon.jaxrs.WadlDocumentMessageBodyWriter@5597ca3
+01-Apr-2022 18:37:38.421 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.nio.NioMessageBodyWriter@31b741e2
+01-Apr-2022 18:37:38.421 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.StringTextProvider@a69f9d
+01-Apr-2022 18:37:38.421 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.JAXBElementTypedProvider@121ddca4
+01-Apr-2022 18:37:38.421 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.PrimitiveTextProvider@284d4885
+01-Apr-2022 18:37:38.421 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.FormEncodingProvider@40cf6254
+01-Apr-2022 18:37:38.421 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.MultipartProvider@40bf0e15
+01-Apr-2022 18:37:38.421 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.geronimo.microprofile.openapi.jaxrs.JacksonOpenAPIYamlBodyWriter@573a078
+01-Apr-2022 18:37:38.421 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.SourceProvider@2c77344f
+01-Apr-2022 18:37:38.437 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.JAXBElementProvider@297bd171
+01-Apr-2022 18:37:38.437 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.openejb.server.cxf.rs.johnzon.TomEEJsonbProvider@67d5ac2f
+01-Apr-2022 18:37:38.437 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.openejb.server.cxf.rs.johnzon.TomEEJsonpProvider@1201e064
+01-Apr-2022 18:37:38.437 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.BinaryDataProvider@5a8dcfbb
+01-Apr-2022 18:37:38.437 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.DataSourceProvider@1846ad0f
+01-Apr-2022 18:37:38.437 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication Using exception mappers:
+01-Apr-2022 18:37:38.437 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.impl.WebApplicationExceptionMapper@64757d56
+01-Apr-2022 18:37:38.437 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.tomee.microprofile.jwt.MPJWTFilter$MPJWTExceptionMapper@4813d0
+01-Apr-2022 18:37:38.437 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.openejb.server.cxf.rs.EJBExceptionMapper@4a04ca74
+01-Apr-2022 18:37:38.437 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.validation.ValidationExceptionMapper@702096ef
+01-Apr-2022 18:37:38.439 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints REST Application: http://localhost:8080/data                             -> com.pucese.tomee_producto.Tomee_productoRestApplication@50ff7063
+01-Apr-2022 18:37:38.441 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints      Service URI: http://localhost:8080/data/health                      -> Pojo org.apache.geronimo.microprofile.impl.health.cdi.CdiHealthChecksEndpoint
+01-Apr-2022 18:37:38.442 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints               GET http://localhost:8080/data/health                      ->      Response getChecks()
+01-Apr-2022 18:37:38.442 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints      Service URI: http://localhost:8080/data/hello                       -> Pojo com.pucese.tomee_producto.HelloController                               
+01-Apr-2022 18:37:38.442 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints               GET http://localhost:8080/data/hello                       ->      String sayHello()
+01-Apr-2022 18:37:38.442 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints      Service URI: http://localhost:8080/data/metrics                     -> Pojo org.apache.geronimo.microprofile.metrics.jaxrs.CdiMetricsEndpoints      
+01-Apr-2022 18:37:38.442 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints               GET http://localhost:8080/data/metrics                     ->      Object getJson(SecurityContext, UriInfo)                    
+01-Apr-2022 18:37:38.442 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints               GET http://localhost:8080/data/metrics                     ->      String getText(SecurityContext, UriInfo)                    
+01-Apr-2022 18:37:38.442 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints               GET http://localhost:8080/data/metrics/{registry}          ->      Object getJson(String, SecurityContext, UriInfo)            
+01-Apr-2022 18:37:38.442 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints               GET http://localhost:8080/data/metrics/{registry}          ->      String getText(String, SecurityContext, UriInfo)            
+01-Apr-2022 18:37:38.442 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints               GET http://localhost:8080/data/metrics/{registry}/{metric} ->      Object getJson(String, String, SecurityContext, UriInfo)    
+01-Apr-2022 18:37:38.442 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints               GET http://localhost:8080/data/metrics/{registry}/{metric} ->      String getText(String, String, SecurityContext, UriInfo)    
+01-Apr-2022 18:37:38.442 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints           OPTIONS http://localhost:8080/data/metrics/{registry}          ->      Object getMetadata(String, SecurityContext, UriInfo)        
+01-Apr-2022 18:37:38.443 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints           OPTIONS http://localhost:8080/data/metrics/{registry}/{metric} ->      Object getMetadata(String, String, SecurityContext, UriInfo)
+01-Apr-2022 18:37:38.443 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints      Service URI: http://localhost:8080/data/openapi                     -> Pojo org.apache.geronimo.microprofile.openapi.jaxrs.OpenAPIEndpoint          
+01-Apr-2022 18:37:38.443 INFORMACIÓN [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints               GET http://localhost:8080/data/openapi                     ->      OpenAPI get()
+01-Apr-2022 18:37:38.472 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Deployment of web application archive [C:\Users\User\OneDrive\Documents\GitHub\RuntimeTesis\ApacheTomEE_producto\tomee_producto\.distribution\apache-tomee\webapps\ROOT.war] has finished in [2.832] ms
+01-Apr-2022 18:37:38.481 INFORMACIÓN [main] org.apache.catalina.core.StandardContext.setClassLoaderProperty Unable to set the web application class loader property [clearReferencesRmiTargets] to [true] as the property does not exist.
+01-Apr-2022 18:37:38.481 INFORMACIÓN [main] org.apache.catalina.core.StandardContext.setClassLoaderProperty Unable to set the web application class loader property [clearReferencesObjectStreamClassCaches] to [true] as the property does not exist.
+01-Apr-2022 18:37:38.481 INFORMACIÓN [main] org.apache.catalina.core.StandardContext.setClassLoaderProperty Unable to set the web application class loader property [clearReferencesObjectStreamClassCaches] to [true] as the property does not exist.
+01-Apr-2022 18:37:38.481 INFORMACIÓN [main] org.apache.catalina.core.StandardContext.setClassLoaderProperty Unable to set the web application class loader property [clearReferencesThreadLocals] to [true] as the property does not exist.
+01-Apr-2022 18:37:38.488 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting ProtocolHandler ["http-nio-8080"]
+01-Apr-2022 18:37:38.494 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting ProtocolHandler ["ajp-nio-8009"]
+01-Apr-2022 18:37:38.496 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Server startup in [2.911] milliseconds

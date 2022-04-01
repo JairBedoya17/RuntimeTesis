@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: User
+Created-By: Apache Maven 3.8.1
+Build-Jdk: 1.8.0_302
+Main-Class: com.kumuluz.ee.loader.EeBootLoader
+
